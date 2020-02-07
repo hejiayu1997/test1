@@ -5,6 +5,7 @@ public class Tset1 {
 		System.out.println("1");
 		//222
         //555
+		//323
 		//111111
 
 
